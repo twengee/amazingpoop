@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amazingpoop/static/css/main.a617e044.chunk.css",
+    "main.js": "/amazingpoop/static/js/main.9ead1a67.chunk.js",
+    "main.js.map": "/amazingpoop/static/js/main.9ead1a67.chunk.js.map",
+    "runtime-main.js": "/amazingpoop/static/js/runtime-main.5a39d91c.js",
+    "runtime-main.js.map": "/amazingpoop/static/js/runtime-main.5a39d91c.js.map",
+    "static/js/2.fad81a6f.chunk.js": "/amazingpoop/static/js/2.fad81a6f.chunk.js",
+    "static/js/2.fad81a6f.chunk.js.map": "/amazingpoop/static/js/2.fad81a6f.chunk.js.map",
+    "static/js/3.f6683156.chunk.js": "/amazingpoop/static/js/3.f6683156.chunk.js",
+    "static/js/3.f6683156.chunk.js.map": "/amazingpoop/static/js/3.f6683156.chunk.js.map",
+    "index.html": "/amazingpoop/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/amazingpoop/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fad81a6f.chunk.js.LICENSE.txt": "/amazingpoop/static/js/2.fad81a6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/amazingpoop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a39d91c.js",
+    "static/js/2.fad81a6f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9ead1a67.chunk.js"
+  ]
+}
